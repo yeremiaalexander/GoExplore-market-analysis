@@ -11,7 +11,7 @@ An end-to-end business intelligence project analyzing GoExplore, a camping and h
 
 ## Key Findings
 
-- Raw revenue totals favor general stores (more retailers = more total revenue), but this is misleading. Once normalized by **average order value**, specialty stores outperform: **Golf Shop (€82,968) and Warehouse Store (€109,682)** generate the highest value per transaction in the business — even higher than Department Store.
+- Raw revenue totals favor general stores (more retailers = more total revenue), but this is misleading. Once normalized by **average order value**, specialty stores outperform: **Golf Shop (€85,780) and Warehouse Store (€109,682)** generate the highest value per transaction in the business — even higher than Department Store.
 - **Takeaway:** Specialty stores don't underperform — they operate on a fewer-but-larger-transaction model, which raw order counts and total revenue alone obscure.
 - For market sizing, each target country was matched to a comparable existing market ("twin") and scaled using population and per-capita revenue, cross-checked against GDP per capita, Gini Index, HDI, household consumption, and labor cost to validate comparability.
 
