@@ -2,7 +2,7 @@
 
 An end-to-end business intelligence project analyzing GoExplore, a camping and hiking equipment supplier, using SQL (BigQuery), spreadsheet analysis, and a live Looker Studio dashboard.
 
-**[View the live dashboard →](INSERT_YOUR_LOOKER_STUDIO_LINK_HERE)**
+**[View the live dashboard →] [https://datastudio.google.com/reporting/013caa41-de79-48ae-ab0f-ad5c37556181]**
 
 ## Business Questions
 
